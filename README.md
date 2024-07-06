@@ -43,15 +43,19 @@ To run the project, you need the following libraries:
 - Scikit-learn
 
 ## Installation
-1. Clone the repo:
-git clone https://github.com/your-username/CustomerSegmentationUsingKMeans.git
-cd CustomerSegmentationUsingKMeans
+1. **Clone the repo:**
+   ```sh
+   git clone https://github.com/your-username/CustomerSegmentationUsingKMeans.git
+   cd CustomerSegmentationUsingKMeans
+   ```
 
-2. Install the required Python packages:
-pip install numpy pandas matplotlib seaborn plotly scikit-learn
+2. **Install the required Python packages:**
+   ```sh
+   pip install numpy pandas matplotlib seaborn plotly scikit-learn
+   ```
 
 ## Usage
-jupyter notebook CustomerSegmentationUsingKMeans.ipynb
+**jupyter notebook CustomerSegmentationUsingKMeans.ipynb**
 
 ## Analysis and Results
 The notebook contains the following steps:
